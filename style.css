@@ -1,0 +1,52 @@
+body {
+    font-family: "PT Sans", sans-serif;
+    font-weight: 500;
+    margin:0;
+}
+p {
+    color: #ffa509;
+    font-size: 22px;
+}
+.header {
+    height: 50px;
+    width: 100%;
+    border-top: 50px solid #E5E4E2;
+    position: relative;
+    margin: 0 auto;
+    display: block;
+}
+.main_picture{
+    height: 100%;
+    width: 1600px;
+    margin: 0 auto;
+    background: url('img/background.jpg') no-repeat;
+    display: block;
+    position: absolute;
+}
+ .header P{
+     color: #0000CD ;
+     position:absolute;
+     top:-50px;
+     left: 800px;
+     ;
+}
+.avatar {
+    height: 300px;
+    width:450px;
+    position: absolute;
+    left: 100px;
+}
+.information {
+    position: absolute;
+    width: 300px;
+    height: auto;
+    top: 120px;
+    left: 1000px;
+}
+#hobbies {
+    color: #ffa509;
+    position: absolute;
+    left: -40px;
+    top:140px;
+    font-size:20px;
+}
